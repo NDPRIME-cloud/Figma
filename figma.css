@@ -94,7 +94,7 @@ button{
     }
 
     .big-page{
-        background-image:url(Rectangle58.png) ;
+        background-image:url("./images/Rectangle58.png") ;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
